@@ -282,7 +282,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  faraday (~> 2.7, >= 2.7.11)
+  faraday
   faraday-retry
   github-pages
   http_parser.rb (~> 0.6.0)
